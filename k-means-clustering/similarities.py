@@ -12,8 +12,6 @@ from sklearn.metrics import silhouette_score, adjusted_rand_score
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 
-
-
 datafile = "TCGA-PANCAN-HiSeq-801x20531/data.csv"
 labels_file = "TCGA-PANCAN-HiSeq-801x20531/labels.csv"
 
