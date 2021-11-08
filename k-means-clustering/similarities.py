@@ -30,7 +30,7 @@ true_label_names = np.genfromtxt(
     skip_header=1,
     dtype="str"
 )
-
+#s
 #print("Data Type : ", true_label_names)
 
 label_encoder = LabelEncoder()

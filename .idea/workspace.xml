@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="778bc628-f0d6-4ec2-8733-2448fae38f12" name="Changes" comment="Data mining with k-means cluster algorithm and PCA from sklearn on iris dataset">
-      <change beforePath="$PROJECT_DIR$/k-means-clustering/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/k-means.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/k-means.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/similarities.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/similarities.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,12 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/k-means-clustering/k-means.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/k-means-clustering/similarities.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="20b9HNHjjMq6BnlW37LCdp9vpQk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_MARK_IGNORED_FILES_AS_EXCLUDED" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
