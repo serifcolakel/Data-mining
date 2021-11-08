@@ -43,7 +43,7 @@ print(model.cluster_centers_)
 #
 plt.subplot(1, 1, 1)
 plt.scatter(x.Petal_Length, x.Petal_Width, c=colormap[model.labels_], s=40)
-plt.scatter(model.cluster_centers_[:, 2], model.cluster_centers_[:, 3], c=colormap[:],marker="*", s=150)
+plt.scatter(model.cluster_centers_[:, 2], model.cluster_centers_[:, 3], c=colormap[:],marker="*", s=350)
 plt.grid(color = 'green', linestyle = '--', linewidth = 0.3)
 plt.title('K Mean Classification')
 plt.show()

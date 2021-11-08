@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778bc628-f0d6-4ec2-8733-2448fae38f12" name="Changes" comment="Data mining with k-means cluster algorithm and PCA from sklearn on iris dataset" />
+    <list default="true" id="778bc628-f0d6-4ec2-8733-2448fae38f12" name="Changes" comment="Data mining with k-means cluster algorithm and PCA from sklearn on iris dataset">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/k-means.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/k-means.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/k-means-clustering/similarities.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/similarities.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,8 +29,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/k-means-clustering/TCGA-PANCAN-HiSeq-801x20531/labels.csv&#10;C:/Users/Justi/OneDrive/Masaüstü/Data-Minig/k-means-clustering/TCGA-PANCAN-HiSeq-801x20531/data.csv&#10;C:/Users/Justi/OneDrive/Masaüstü/Data-Minig/k-means-clustering/TCGA-PANCAN-HiSeq-801x20531/daa.csv" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Python.k-means">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" singleton="false">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Justi\OneDrive\Masaüstü\Data-Minig\k-means-clustering\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Data-Minig" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636333563800</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Data mining with k-means cluster algorithm and PCA from sklearn on iris dataset">
+      <created>1636333661571</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636333661571</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
