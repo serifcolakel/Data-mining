@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="778bc628-f0d6-4ec2-8733-2448fae38f12" name="Changes" comment="Data mining with k-means cluster algorithm and PCA from sklearn on iris dataset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-means-clustering/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-means-clustering/k-means.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/k-means.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/k-means-clustering/similarities.py" beforeDir="false" afterPath="$PROJECT_DIR$/k-means-clustering/similarities.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +27,10 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
-  <component name="RunManager" selected="Python.similarities">
+  <component name="RunManager" selected="Python.k-means">
     <configuration name="k-means" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636329578752</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Data mining with k-means cluster algorithm and PCA from sklearn on iris dataset">
+      <created>1636332299995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1636332299996</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
