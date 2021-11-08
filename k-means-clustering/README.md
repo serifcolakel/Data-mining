@@ -13,7 +13,7 @@
 
 ># GORUNTULER (similarities.py)
 >>![Image of Onay](https://i.hizliresim.com/nxachbl.jpg)
->* Declare
+>* Declaree
 
 # Referans Linkleri
 >* https://scikit-learn.org/
